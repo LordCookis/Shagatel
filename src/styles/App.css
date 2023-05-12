@@ -1,0 +1,161 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.main {
+  height: 100vh;
+  background-image: url(https://i.ytimg.com/vi/w9gD78j9EKI/maxresdefault.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  font-family: "Chiller";
+  user-select: none;
+}
+
+.image-div {
+  width: 75vw;
+  height: 75vh;
+  background-color: #333;
+  border: 1px solid #666;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  margin: auto auto 20px;
+}
+
+.button-div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pages {
+  height: 25px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 0 10px;
+  color: #fff;
+  background-color: #666;
+  border: 1px solid #666;
+  border-radius: 5px;
+  font-size: 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.button {
+  height: 25px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 0 10px;
+  color: #fff;
+  background-color: #666;
+  border: 1px solid #666;
+  border-radius: 5px;
+  font-size: 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: #444;
+  border: 1px solid #666;
+}
+
+.button:active {
+  transform: translateY(2px);
+}
+
+.line-divider {
+  height: 1px;
+  background-color: #666;
+  margin: 20px 0;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.image {
+  height: 100%;
+  width: 100%;
+}
+
+.main_cute {
+  height: 100vh;
+  background-image: url(https://gamerwall.pro/uploads/posts/2021-12/1639679148_6-gamerwall-pro-p-sinii-magicheskii-les-fentezi-krasivo-oboi-6.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #e100ff;
+  font-family: "Anime Ace v05";
+  user-select: none;
+}
+
+.image-div_cute {
+  width: 75vw;
+  height: 75vh;
+  background-color: #3b0038;
+  border: 1px solid #680063;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  margin: auto auto 20px;
+}
+
+.button-div_cute {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pages_cute {
+  height: 25px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 0 10px;
+  color: #e100ff;
+  background-color: #680063;
+  border: 1px solid #680063;
+  border-radius: 5px;
+  font-size: 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.button_cute {
+  height: 25px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 0 10px;
+  color: #e100ff;
+  background-color: #680063;
+  border: 1px solid #680063;
+  border-radius: 5px;
+  font-size: 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.button_cute:hover {
+  background-color: #3b0038;
+  border: 1px solid #680063;
+}
+
+.button_cute:active {
+  transform: translateY(2px);
+}
+
+.h_cute {
+  font-size: 25px;
+}
